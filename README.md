@@ -8,8 +8,9 @@
 ### Python
 #### Courses
   
- | Progress | Title | 
- | -------- | ----- | 
+ | Progress | Title | Certificate | 
+ | -------- | ----- | ----------- |
  | **incompleted** | [Data Scientist: Analytics Specialist](https://www.codecademy.com/learn/paths/data-analyst) |
  | **incompleted** | [Learnpython.org](https://www.learnpython.org/) |
+ | **incompleted** | [Certificado profesional de Análisis de datos de Google](https://bit.ly/3ReszaJ) |
  
