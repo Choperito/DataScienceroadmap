@@ -31,6 +31,8 @@
  | **incompleted** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) |
  | **incompleted** | [Algebra 1](https://es.khanacademy.org/math/algebra-home) |
  | **incompleted** | [Calculo 1](https://es.khanacademy.org/math/ap-calculus-ab) |
+  | **incompleted** | [Funciones Matematicas para Data Science](https://deepnote.com/@mazzaroli/Introduccion-a-Funciones-Matematicas-para-Data-Science-e-Inteligencia-Artificial-f9a47b52-0308-4e95-a3d3-c3de3ef7b14fb) |
+ 
  
  
 ## Other Courses
