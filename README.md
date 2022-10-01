@@ -40,3 +40,9 @@
 | Status | Title | Certificate | 
  | -------- | ----- | ----------- |
  | **incompleted** | [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/certifications/exams/pl-300) |
+ 
+ ### Data Analysis
+| Status | Title | Certificate | 
+ | -------- | ----- | ----------- |
+ | **Completed** | [Data Analysis in Spreadsheets by DataCamp](https://app.datacamp.com/learn/courses/data-analysis-in-spreadsheets) | [Approved](https://drive.google.com/file/d/1DN1wOFMErOZpYRw3A8x72FjjwyEWCjHA/view?usp=sharing) |
+ 
