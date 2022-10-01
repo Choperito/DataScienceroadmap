@@ -22,3 +22,19 @@
  | **incompleted** | [Python on Exercism](https://exercism.org/tracks/python) |
  | **incompleted** | [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) |
  
+
+
+## Mathematics & theory
+### Courses
+| Status | Title | Certificate | 
+ | -------- | ----- | ----------- |
+ | **incompleted** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) |
+ | **incompleted** | [Algebra 1](https://es.khanacademy.org/math/algebra-home) |
+ | **incompleted** | [Calculo 1](https://es.khanacademy.org/math/ap-calculus-ab) |
+ 
+ 
+## Other Courses
+### PowerBi
+| Status | Title | Certificate | 
+ | -------- | ----- | ----------- |
+ | **incompleted** | [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/certifications/exams/pl-300) |
